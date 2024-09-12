@@ -44,6 +44,10 @@ xfce
 reboot
 ```
 
+```bash
+poweroff
+```
+
 ### References
 
 - https://superuser.com/a/1267008
