@@ -14,3 +14,66 @@ Notes and experiments on Linux distros.
 ### References
 
 - https://superuser.com/a/1267008
+
+## Format USB via diskpart (Windows)
+
+- Open Terminal
+
+```powershell
+diskpart
+```
+
+```powershell
+list disk
+```
+
+```powershell
+select disk <NUMBER>
+```
+
+> For example:
+>
+> ```powershell
+> select disk 1
+> ```
+
+```powershell
+list disk
+```
+
+```powershell
+clean
+```
+
+```powershell
+list disk
+```
+
+```powershell
+create partition primary
+```
+
+```powershell
+list partition
+```
+
+```powershell
+select partition 1
+```
+
+```powershell
+active
+```
+
+```powershell
+format fs=fat32 quick
+```
+
+```powershell
+exit
+```
+
+### References
+
+- https://superuser.com/a/1741354
+- https://www.windowscentral.com/how-clean-and-format-storage-drive-using-diskpart-windows-10
