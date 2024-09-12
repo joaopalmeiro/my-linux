@@ -10,6 +10,64 @@
   - https://help.zorin.com/docs/getting-started/install-zorin-os/
 - Software to create bootable USB drives:
   - https://etcher.balena.io/
+- https://wiki.alpinelinux.org/wiki/Comparison_with_other_distros
+
+## ASUS Eee PC 1005PE
+
+### Alpine Linux
+
+- Default user: `root`
+
+```bash
+setup-alpine
+```
+
+- Keyboard layout: `pt`
+  - Variant: `pt`
+- Disk: `sda`
+  - Usage: `sys`
+
+```bash
+reboot
+```
+
+```bash
+su
+```
+
+```bash
+setup-desktop
+```
+
+```bash
+xfce
+```
+
+or
+
+```bash
+gnome
+```
+
+```bash
+reboot
+```
+
+```bash
+poweroff
+```
+
+#### References
+
+- https://superuser.com/a/1267008
+- https://techoverflow.net/2021/01/09/what-is-the-alpine-linux-default-login-password/
+- https://docs.alpinelinux.org/user-handbook/0.1a/Installing/setup_alpine.html
+- https://breder.org/alpine-setup
+- https://wiki.alpinelinux.org/wiki/Xfce
+- https://docs.alpinelinux.org/user-handbook/0.1a/Working/post-install.html
+- https://www.linux.org/threads/black-screen-with-blinking-cursor-not-booting-after-installation.46301/: `Ctrl+Alt+F1`
+- https://gitlab.alpinelinux.org/alpine/aports/-/issues/14579
+- https://linuxiac.com/how-to-install-alpine-linux/
 
 ## Commands
 
