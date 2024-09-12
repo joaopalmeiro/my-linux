@@ -58,6 +58,7 @@ poweroff
 - https://docs.alpinelinux.org/user-handbook/0.1a/Working/post-install.html
 - https://www.linux.org/threads/black-screen-with-blinking-cursor-not-booting-after-installation.46301/: `Ctrl+Alt+F1`
 - https://gitlab.alpinelinux.org/alpine/aports/-/issues/14579
+- https://linuxiac.com/how-to-install-alpine-linux/
 
 ## Format USB via diskpart (Windows)
 
