@@ -1,5 +1,22 @@
 # Notes
 
+- https://en.wikipedia.org/wiki/Light-weight_Linux_distribution
+- https://alpinelinux.org/
+- https://voidlinux.org/
+- https://winaero.com/check-if-processor-is-32-bit-64-bit-or-arm-in-windows-10/
+- https://itsfoss.com/32-bit-linux-distributions/
+- Zorin OS:
+  - https://help.zorin.com/docs/getting-started/system-requirements/: `64-bit`
+  - https://help.zorin.com/docs/getting-started/install-zorin-os/
+- Software to create bootable USB drives:
+  - https://etcher.balena.io/
+
+## Commands
+
+```powershell
+echo %PROCESSOR_ARCHITECTURE%
+```
+
 ## Snippets
 
 ```markdown
