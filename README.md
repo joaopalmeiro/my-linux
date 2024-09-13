@@ -11,6 +11,11 @@ Notes and experiments on Linux distros.
     - _Boot_ > _Boot Settings Configuration_ > _Quiet Boot_ [Disabled]
     - _Boot_ > _Boot Booster_ [Disabled]
 
+### MX Linux
+
+- Passwords: `demo` (user demo) and `root` (superuser root)
+- _Select type of installation_: _Regular install using the entire disk_
+
 ## Format USB via diskpart (Windows)
 
 - Open Terminal

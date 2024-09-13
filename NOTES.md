@@ -5,6 +5,7 @@
   - https://alpinelinux.org/
   - https://voidlinux.org/
   - https://puppylinux-woof-ce.github.io/
+  - https://mxlinux.org/
 - https://winaero.com/check-if-processor-is-32-bit-64-bit-or-arm-in-windows-10/
 - https://itsfoss.com/32-bit-linux-distributions/
 - Zorin OS:
