@@ -7,6 +7,8 @@
   - https://puppylinux-woof-ce.github.io/
   - https://mxlinux.org/:
     - "MX Linux - Xfce is our flagship. It is a midweight desktop environment that aims to be fast and low-resource (...)"
+  - https://sparkylinux.org/:
+    - https://wiki.sparkylinux.org/doku.php/sparky_gui
 - https://winaero.com/check-if-processor-is-32-bit-64-bit-or-arm-in-windows-10/
 - https://itsfoss.com/32-bit-linux-distributions/
 - Zorin OS:
