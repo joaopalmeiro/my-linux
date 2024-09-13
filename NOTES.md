@@ -1,8 +1,10 @@
 # Notes
 
 - https://en.wikipedia.org/wiki/Light-weight_Linux_distribution
-- https://alpinelinux.org/
-- https://voidlinux.org/
+- Distros:
+  - https://alpinelinux.org/
+  - https://voidlinux.org/
+  - https://puppylinux-woof-ce.github.io/
 - https://winaero.com/check-if-processor-is-32-bit-64-bit-or-arm-in-windows-10/
 - https://itsfoss.com/32-bit-linux-distributions/
 - Zorin OS:
@@ -11,6 +13,7 @@
 - Software to create bootable USB drives:
   - https://etcher.balena.io/
 - https://wiki.alpinelinux.org/wiki/Comparison_with_other_distros
+- https://glua.ua.pt/pub/
 
 ## ASUS Eee PC 1005PE
 
