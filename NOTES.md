@@ -5,7 +5,8 @@
   - https://alpinelinux.org/
   - https://voidlinux.org/
   - https://puppylinux-woof-ce.github.io/
-  - https://mxlinux.org/
+  - https://mxlinux.org/:
+    - "MX Linux - Xfce is our flagship. It is a midweight desktop environment that aims to be fast and low-resource (...)"
 - https://winaero.com/check-if-processor-is-32-bit-64-bit-or-arm-in-windows-10/
 - https://itsfoss.com/32-bit-linux-distributions/
 - Zorin OS:
@@ -15,6 +16,8 @@
   - https://etcher.balena.io/
 - https://wiki.alpinelinux.org/wiki/Comparison_with_other_distros
 - https://glua.ua.pt/pub/
+- https://distrowatch.com/
+- https://www.reddit.com/r/MXLinux/comments/11atmt3/comment/j9vem3u/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
 ## ASUS Eee PC 1005PE
 
@@ -72,6 +75,11 @@ poweroff
 - https://www.linux.org/threads/black-screen-with-blinking-cursor-not-booting-after-installation.46301/: `Ctrl+Alt+F1`
 - https://gitlab.alpinelinux.org/alpine/aports/-/issues/14579
 - https://linuxiac.com/how-to-install-alpine-linux/
+
+### MX Linux
+
+- Passwords: `demo` (user demo) and `root` (superuser root)
+- _Select type of installation_: _Regular install using the entire disk_
 
 ## Commands
 
