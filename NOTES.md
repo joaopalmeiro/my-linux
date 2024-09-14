@@ -9,6 +9,7 @@
     - "MX Linux - Xfce is our flagship. It is a midweight desktop environment that aims to be fast and low-resource (...)"
   - https://sparkylinux.org/:
     - https://wiki.sparkylinux.org/doku.php/sparky_gui
+  - https://www.q4os.org/
 - https://winaero.com/check-if-processor-is-32-bit-64-bit-or-arm-in-windows-10/
 - https://itsfoss.com/32-bit-linux-distributions/
 - Zorin OS:
@@ -18,8 +19,10 @@
   - https://etcher.balena.io/
 - https://wiki.alpinelinux.org/wiki/Comparison_with_other_distros
 - https://glua.ua.pt/pub/
-- https://distrowatch.com/
+- https://distrowatch.com/:
+  - https://distrowatch.com/search.php?ostype=Linux&category=Old+Computers
 - https://www.reddit.com/r/MXLinux/comments/11atmt3/comment/j9vem3u/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+- [Top 5 Linux Distros For Older Hardware](https://www.youtube.com/watch?v=qUpdHF69BQY) video
 
 ## ASUS Eee PC 1005PE
 
