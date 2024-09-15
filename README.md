@@ -10,6 +10,7 @@ Notes and experiments on Linux distros.
   - To boot from USB, disable the following options:
     - _Boot_ > _Boot Settings Configuration_ > _Quiet Boot_ [Disabled]
     - _Boot_ > _Boot Booster_ [Disabled]
+- OS: Q4OS Aquarius (Trinity desktop)
 
 ## Format USB via diskpart (Windows)
 
