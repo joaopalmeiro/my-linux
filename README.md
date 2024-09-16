@@ -20,6 +20,12 @@ Notes and experiments on Linux distros.
 sudo apt-get install evince
 ```
 
+#### Falkon (browser)
+
+```bash
+sudo apt-get install falkon
+```
+
 ## Format USB via diskpart (Windows)
 
 - Open Terminal

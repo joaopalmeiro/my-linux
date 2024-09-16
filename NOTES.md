@@ -18,6 +18,8 @@
   - https://help.zorin.com/docs/getting-started/install-zorin-os/
 - Software to create bootable USB drives:
   - https://etcher.balena.io/
+  - https://github.com/ventoy/Ventoy:
+    - https://giacomo.coletto.io/blog/ventoy/
 - https://wiki.alpinelinux.org/wiki/Comparison_with_other_distros
 - https://glua.ua.pt/pub/
 - https://distrowatch.com/:
@@ -29,6 +31,11 @@
 - https://en.wikipedia.org/wiki/APT_(software): "(...) Debian and Debian-based Linux distributions."
 - https://wiki.debian.org/sudo/
 - https://vicpimakers.ca/tutorials/raspbian/apt-get-install-packages/
+- https://wiki.debian.org/DebianSoftware:
+  - https://packages.debian.org/stable/
+  - https://packages.debian.org/stable/allpackages?format=txt.gz
+- https://itsfoss.com/lightweight-web-browsers-linux/
+- https://www.falkon.org/
 
 ## ASUS Eee PC 1005PE
 
