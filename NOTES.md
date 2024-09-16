@@ -9,7 +9,8 @@
     - "MX Linux - Xfce is our flagship. It is a midweight desktop environment that aims to be fast and low-resource (...)"
   - https://sparkylinux.org/:
     - https://wiki.sparkylinux.org/doku.php/sparky_gui
-  - https://www.q4os.org/
+  - https://www.q4os.org/:
+    - https://www.q4os.org/forum/viewtopic.php?id=2560: "The VIA driver is a bit pain in Linux. You could boot Q4OS in recovery mode and try to fix the driver options. Start your computer and tap "Esc" key a few times, the Grub boot table appears. Go to Advanced options .. > recover mode and boot the system."
 - https://winaero.com/check-if-processor-is-32-bit-64-bit-or-arm-in-windows-10/
 - https://itsfoss.com/32-bit-linux-distributions/
 - Zorin OS:
