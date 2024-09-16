@@ -24,6 +24,11 @@
   - https://distrowatch.com/search.php?ostype=Linux&category=Old+Computers
 - https://www.reddit.com/r/MXLinux/comments/11atmt3/comment/j9vem3u/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 - [Top 5 Linux Distros For Older Hardware](https://www.youtube.com/watch?v=qUpdHF69BQY) video
+- https://wiki.gnome.org/Apps/Evince:
+  - https://wiki.gnome.org/Apps/Evince/Downloads
+- https://en.wikipedia.org/wiki/APT_(software): "(...) Debian and Debian-based Linux distributions."
+- https://wiki.debian.org/sudo/
+- https://vicpimakers.ca/tutorials/raspbian/apt-get-install-packages/
 
 ## ASUS Eee PC 1005PE
 

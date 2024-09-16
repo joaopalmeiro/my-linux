@@ -12,6 +12,14 @@ Notes and experiments on Linux distros.
     - _Boot_ > _Boot Booster_ [Disabled]
 - OS: Q4OS Aquarius (Trinity desktop)
 
+### Software
+
+#### Evince (document/PDF viewer)
+
+```bash
+sudo apt-get install evince
+```
+
 ## Format USB via diskpart (Windows)
 
 - Open Terminal
