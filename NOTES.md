@@ -36,6 +36,17 @@
   - https://packages.debian.org/stable/allpackages?format=txt.gz
 - https://itsfoss.com/lightweight-web-browsers-linux/
 - https://www.falkon.org/
+- https://www.paulligocki.com/create-virtualbox-vm-from-command-line/
+- Linux on Apple Silicon:
+  - https://ubuntuasahi.org/
+  - https://github.com/UbuntuAsahi/ubuntu-asahi
+  - https://asahilinux.org/
+- https://askubuntu.com/questions/283964/gaming-with-virtualbox-has-it-worked-for-you
+- https://pi-apps.io/:
+  - https://github.com/Botspot/pi-apps
+  - https://community.fydeos.io/t/topic/25188
+  - https://pi-apps.io/install/
+  - https://pi-apps.io/wiki/getting-started/apps-list/#steam
 
 ## ASUS Eee PC 1005PE
 
