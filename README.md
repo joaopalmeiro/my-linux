@@ -88,3 +88,34 @@ exit
 
 - https://superuser.com/a/1741354
 - https://www.windowscentral.com/how-clean-and-format-storage-drive-using-diskpart-windows-10
+
+## Ubuntu VM on macOS
+
+- https://formulae.brew.sh/cask/virtualbox
+- Ubuntu Server for ARM: https://ubuntu.com/download/server/arm
+- https://docs.getutm.app/guides/ubuntu/
+- https://askubuntu.com/questions/434849/change-keyboard-layout-english-uk-on-command-line-to-english-us
+
+### Change keyboard layout
+
+```bash
+sudo dpkg-reconfigure keyboard-configuration
+```
+
+```bash
+sudo reboot
+```
+
+### Install Ubuntu Desktop (GUI)
+
+```bash
+sudo apt update
+```
+
+```bash
+sudo apt install ubuntu-desktop
+```
+
+```bash
+sudo reboot
+```
