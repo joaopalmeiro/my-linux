@@ -89,7 +89,7 @@ exit
 - https://superuser.com/a/1741354
 - https://www.windowscentral.com/how-clean-and-format-storage-drive-using-diskpart-windows-10
 
-## Ubuntu VM on macOS
+## Ubuntu VM (ARM) on macOS
 
 - https://formulae.brew.sh/cask/virtualbox
 - Ubuntu Server for ARM: https://ubuntu.com/download/server/arm
