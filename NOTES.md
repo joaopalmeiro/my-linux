@@ -47,6 +47,7 @@
   - https://community.fydeos.io/t/topic/25188
   - https://pi-apps.io/install/
   - https://pi-apps.io/wiki/getting-started/apps-list/#steam
+- https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu
 
 ## ASUS Eee PC 1005PE
 

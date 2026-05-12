@@ -8,6 +8,12 @@ Notes and experiments on Linux distros.
   - https://documentation.ubuntu.com/desktop/en/latest/how-to/create-a-bootable-usb-stick/
   - https://formulae.brew.sh/cask/balenaetcher
 
+### Software
+
+```bash
+sudo apt update && sudo apt install git
+```
+
 ## ASUS Eee PC 1005PE
 
 - 32-bit architecture
