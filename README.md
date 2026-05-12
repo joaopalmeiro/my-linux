@@ -2,6 +2,12 @@
 
 Notes and experiments on Linux distros.
 
+## Lenovo ThinkPad T490
+
+- https://ubuntu.com/download/desktop
+  - https://documentation.ubuntu.com/desktop/en/latest/how-to/create-a-bootable-usb-stick/
+  - https://formulae.brew.sh/cask/balenaetcher
+
 ## ASUS Eee PC 1005PE
 
 - 32-bit architecture
