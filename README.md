@@ -20,6 +20,10 @@ Install [1Password](https://support.1password.com/install-linux/#debian-or-ubunt
 git config --global user.email "<EMAIL>" && git config --global user.name "João Palmeiro"
 ```
 
+```bash
+ansible-playbook ubuntu.yml --verbose
+```
+
 ## ASUS Eee PC 1005PE
 
 - 32-bit architecture

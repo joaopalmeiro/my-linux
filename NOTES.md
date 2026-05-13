@@ -48,6 +48,24 @@
   - https://pi-apps.io/install/
   - https://pi-apps.io/wiki/getting-started/apps-list/#steam
 - https://www.digitalocean.com/community/tutorials/how-to-install-git-on-ubuntu
+- https://docs.ansible.com/projects/ansible/latest/playbook_guide/playbooks_intro.html
+- https://docs.ansible.com/projects/lint/
+- https://docs.ansible.com/projects/ansible/latest/collections/community/general/snap_module.html
+- https://docs.ansible.com/projects/ansible/latest/playbook_guide/playbooks_privilege_escalation.html#become-directives
+- https://docs.ansible.com/projects/ansible/latest/inventory_guide/intro_patterns.html
+- https://docs.ansible.com/projects/ansible/latest/inventory_guide/connection_details.html
+  - https://docs.ansible.com/projects/ansible/latest/inventory_guide/connection_details.html#running-against-localhost
+- https://oneuptime.com/blog/post/2026-02-21-how-to-run-ansible-playbooks-on-localhost/view
+
+## Commands
+
+```bash
+ansible-playbook --check ubuntu.yaml
+```
+
+```bash
+ansible-lint ubuntu.yml
+```
 
 ## ASUS Eee PC 1005PE
 
