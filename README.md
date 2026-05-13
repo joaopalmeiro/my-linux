@@ -21,7 +21,7 @@ git config --global user.email "<EMAIL>" && git config --global user.name "João
 ```
 
 ```bash
-ansible-playbook ubuntu.yml --verbose --ask-become-pass
+ansible-playbook ubuntu.yml
 ```
 
 ## ASUS Eee PC 1005PE

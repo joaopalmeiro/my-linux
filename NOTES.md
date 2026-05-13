@@ -56,6 +56,7 @@
 - https://docs.ansible.com/projects/ansible/latest/inventory_guide/connection_details.html
   - https://docs.ansible.com/projects/ansible/latest/inventory_guide/connection_details.html#running-against-localhost
 - https://oneuptime.com/blog/post/2026-02-21-how-to-run-ansible-playbooks-on-localhost/view
+- https://developer.1password.com/docs/connect/ansible-collection/
 
 ## Commands
 
