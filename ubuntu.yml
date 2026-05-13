@@ -1,5 +1,4 @@
 - hosts: localhost
-  connection: local
 
   tasks:
     - name: Install snaps with classic confinement
