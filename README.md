@@ -16,6 +16,10 @@ sudo apt update && sudo apt install curl git ansible
 
 Install [1Password](https://support.1password.com/install-linux/#debian-or-ubuntu) and set up [SSH](https://developer.1password.com/docs/ssh/get-started/).
 
+```bash
+git config --global user.email "<EMAIL>" && git config --global user.name "João Palmeiro"
+```
+
 ## ASUS Eee PC 1005PE
 
 - 32-bit architecture
