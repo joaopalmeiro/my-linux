@@ -1,5 +1,6 @@
 - hosts: localhost
   connection: local
+
   tasks:
     - name: Install snaps with classic confinement
       become: true
@@ -8,10 +9,18 @@
         classic: true
       loop:
         # https://code.visualstudio.com/download
+        # https://snapcraft.io/code
         - code
         # https://ghostty.org/docs/install/binary#snap
+        # https://snapcraft.io/ghostty
         - ghostty
-        # https://www.spotify.com/pt-en/download/linux/
-        - spotify
-        # https://snapcraft.io/steam
-        - steam
+
+    - name: Install snaps
+      become: true
+      community.general.snap:
+        name:
+          # https://www.spotify.com/pt-en/download/linux/
+          # https://snapcraft.io/spotify
+          - spotify
+          # https://snapcraft.io/steam
+          - steam
