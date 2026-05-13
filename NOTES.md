@@ -160,3 +160,27 @@ echo %PROCESSOR_ARCHITECTURE%
   - UX Engineer. Similar to UX Designer and able to code too.
   - Illustrator.
 ```
+
+```yml
+- hosts: localhost
+  tasks:
+    - name: Install snaps with classic confinement
+      community.general.snap:
+        name: "{{ item }}"
+        classic: true
+      loop:
+        # https://code.visualstudio.com/download
+        # https://snapcraft.io/code
+        - code
+        # https://ghostty.org/docs/install/binary#snap
+        # https://snapcraft.io/ghostty
+        - ghostty
+    - name: Install snaps
+      community.general.snap:
+        name:
+          # https://www.spotify.com/pt-en/download/linux/
+          # https://snapcraft.io/spotify
+          - spotify
+          # https://snapcraft.io/steam
+          - steam
+```
