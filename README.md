@@ -11,8 +11,10 @@ Notes and experiments on Linux distros.
 ### Software
 
 ```bash
-sudo apt update && sudo apt install git
+sudo apt update && sudo apt install curl git ansible
 ```
+
+Install [1Password](https://support.1password.com/install-linux/#debian-or-ubuntu) and the [1Password browser extension](https://1password.com/downloads/browser-extension).
 
 ## ASUS Eee PC 1005PE
 
