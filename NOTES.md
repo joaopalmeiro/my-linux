@@ -58,6 +58,7 @@
 - https://oneuptime.com/blog/post/2026-02-21-how-to-run-ansible-playbooks-on-localhost/view
 - https://developer.1password.com/docs/connect/ansible-collection/
 - https://snapcraft.io/docs/tutorials/install-the-daemon/ubuntu/
+- https://code.visualstudio.com/docs/configure/settings#_settings-file-locations
 
 ## Commands
 

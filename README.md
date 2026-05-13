@@ -24,6 +24,12 @@ git config --global user.email "<EMAIL>" && git config --global user.name "João
 sudo snap install spotify && sudo snap install steam && sudo snap install code --classic && sudo snap install ghostty --classic
 ```
 
+```bash
+cp vscode_settings.json ~/.config/Code/User/settings.json
+```
+
+Install the [VS Code extensions](https://github.com/joaopalmeiro/dotfiles/tree/main#vs-code).
+
 ## ASUS Eee PC 1005PE
 
 - 32-bit architecture
