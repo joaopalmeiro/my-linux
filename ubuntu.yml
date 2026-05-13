@@ -1,8 +1,10 @@
 - hosts: localhost
-
+  become: true
+  become_method: sudo
+  become_user: root
+  become_ask_pass: false
   tasks:
     - name: Install snaps with classic confinement
-      become: true
       community.general.snap:
         name: "{{ item }}"
         classic: true
@@ -13,9 +15,7 @@
         # https://ghostty.org/docs/install/binary#snap
         # https://snapcraft.io/ghostty
         - ghostty
-
     - name: Install snaps
-      become: true
       community.general.snap:
         name:
           # https://www.spotify.com/pt-en/download/linux/
