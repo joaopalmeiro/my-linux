@@ -57,6 +57,7 @@
   - https://docs.ansible.com/projects/ansible/latest/inventory_guide/connection_details.html#running-against-localhost
 - https://oneuptime.com/blog/post/2026-02-21-how-to-run-ansible-playbooks-on-localhost/view
 - https://developer.1password.com/docs/connect/ansible-collection/
+- https://snapcraft.io/docs/tutorials/install-the-daemon/ubuntu/
 
 ## Commands
 
@@ -66,6 +67,10 @@ ansible-playbook --check ubuntu.yaml
 
 ```bash
 ansible-lint ubuntu.yml
+```
+
+```bash
+sudo apt remove ansible
 ```
 
 ## ASUS Eee PC 1005PE

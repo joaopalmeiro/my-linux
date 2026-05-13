@@ -11,7 +11,7 @@ Notes and experiments on Linux distros.
 ### Software
 
 ```bash
-sudo apt update && sudo apt install curl git ansible
+sudo apt update && sudo apt install curl git
 ```
 
 Install [1Password](https://support.1password.com/install-linux/#debian-or-ubuntu) and set up [SSH](https://developer.1password.com/docs/ssh/get-started/).
@@ -21,7 +21,7 @@ git config --global user.email "<EMAIL>" && git config --global user.name "João
 ```
 
 ```bash
-TODO
+sudo snap install spotify steam && sudo snap install code ghostty --classic
 ```
 
 ## ASUS Eee PC 1005PE
