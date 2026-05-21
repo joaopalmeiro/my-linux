@@ -59,6 +59,7 @@
 - https://developer.1password.com/docs/connect/ansible-collection/
 - https://snapcraft.io/docs/tutorials/install-the-daemon/ubuntu/
 - https://code.visualstudio.com/docs/configure/settings#_settings-file-locations
+- https://www.nicoespeon.com/en/2020/10/prevent-vscode-extensions-automatic-updates/
 
 ## Commands
 
