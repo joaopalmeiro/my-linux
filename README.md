@@ -30,6 +30,22 @@ cp vscode_settings.json ~/.config/Code/User/settings.json
 
 Install the [VS Code extensions](https://github.com/joaopalmeiro/dotfiles/tree/main#vs-code).
 
+#### Epson Perfection V39 II
+
+Download the [Epson Scan2 driver](https://download-center.epson.com/softwares/?device_id=Perfection+V39II&region=PT&os=DEBX64&language=en).
+
+Unzip the downloaded file, open the folder, right-click on the `install.sh` file, and _Run as a Program_.
+
+Install the [dependencies](https://download-center.epson.com/f/module/6ea06a0a-3010-4360-926f-b81554132eb1/overview/epsonscan2_e_1.1.pdf):
+
+```bash
+sudo apt-get install qtbase5-dev
+```
+
+```bash
+epsonscan2
+```
+
 ## ASUS Eee PC 1005PE
 
 - 32-bit architecture
