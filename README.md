@@ -39,7 +39,7 @@ Unzip the downloaded file, open the folder, right-click on the `install.sh` file
 Install the [dependencies](https://download-center.epson.com/f/module/6ea06a0a-3010-4360-926f-b81554132eb1/overview/epsonscan2_e_1.1.pdf):
 
 ```bash
-sudo apt-get install qtbase5-dev
+sudo apt update && sudo apt install qtbase5-dev
 ```
 
 ```bash

@@ -75,6 +75,10 @@ ansible-lint ubuntu.yml
 sudo apt remove ansible
 ```
 
+```bash
+sudo apt-get install qtbase5-dev
+```
+
 ## ASUS Eee PC 1005PE
 
 ### Alpine Linux
