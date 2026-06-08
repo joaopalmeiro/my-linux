@@ -21,7 +21,7 @@ git config --global user.email "<EMAIL>" && git config --global user.name "João
 ```
 
 ```bash
-sudo snap install spotify && sudo snap install steam && sudo snap install code --classic && sudo snap install ghostty --classic
+sudo snap install spotify && sudo snap install steam && sudo snap install okular && sudo snap install code --classic && sudo snap install ghostty --classic
 ```
 
 ```bash
