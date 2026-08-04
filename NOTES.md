@@ -61,6 +61,8 @@
 - https://code.visualstudio.com/docs/configure/settings#_settings-file-locations
 - https://www.nicoespeon.com/en/2020/10/prevent-vscode-extensions-automatic-updates/
 - Console IDs: https://raw.githubusercontent.com/RetroAchievements/RAInterface/master/RA_Consoles.h
+- https://www.debugpoint.com/share-folder-gnome-boxes/
+- https://itsfoss.com/share-files-gnome-boxes/
 
 ## Commands
 

@@ -56,6 +56,16 @@ flatpak install flathub org.gnome.Boxes
 
 `Security` > Enable [`Intel Virtualization Technology`](https://help.gnome.org/gnome-boxes/virtualization.html).
 
+On an Ubuntu Desktop 25.10 VM:
+
+```bash
+sudo apt install spice-vdagent spice-webdavd
+```
+
+```bash
+sudo systemctl restart spice-webdavd
+```
+
 #### RALibretro
 
 On an Ubuntu Desktop 25.10 VM:
