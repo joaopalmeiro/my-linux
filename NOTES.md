@@ -60,6 +60,7 @@
 - https://snapcraft.io/docs/tutorials/install-the-daemon/ubuntu/
 - https://code.visualstudio.com/docs/configure/settings#_settings-file-locations
 - https://www.nicoespeon.com/en/2020/10/prevent-vscode-extensions-automatic-updates/
+- Console IDs: https://raw.githubusercontent.com/RetroAchievements/RAInterface/master/RA_Consoles.h
 
 ## Commands
 
