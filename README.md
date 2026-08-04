@@ -56,6 +56,28 @@ flatpak install flathub org.gnome.Boxes
 
 `Security` > Enable [`Intel Virtualization Technology`](https://help.gnome.org/gnome-boxes/virtualization.html).
 
+#### RALibretro
+
+On an Ubuntu TODO VM:
+
+```bash
+sudo apt update && sudo apt install -y build-essential git zip
+```
+
+```bash
+cd Downloads/ && git clone --recursive --depth 1 https://github.com/RetroAchievements/RALibretro.git && cd RALibretro/
+```
+
+```bash
+make -f Makefile.RAHasher HAVE_CHD=1 CC="gcc -include unistd.h" CXX="g++ -include unistd.h"
+```
+
+##### PS1
+
+```bash
+./bin64/RAHasher 12 <FILENAME>
+```
+
 ## ASUS Eee PC 1005PE
 
 - 32-bit architecture
