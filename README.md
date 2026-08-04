@@ -46,6 +46,16 @@ sudo apt update && sudo apt install qtbase5-dev
 epsonscan2
 ```
 
+#### Boxes
+
+```bash
+flatpak install flathub org.gnome.Boxes
+```
+
+[Enter the BIOS](https://support.lenovo.com/us/en/solutions/ht500222-recommended-ways-to-enter-bios-boot-menu-thinkpad-thinkcentre-thinkstation) by pressing the F1 key.
+
+`Security` > Enable [`Intel Virtualization Technology`](https://help.gnome.org/gnome-boxes/virtualization.html).
+
 ## ASUS Eee PC 1005PE
 
 - 32-bit architecture
