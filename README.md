@@ -58,7 +58,7 @@ flatpak install flathub org.gnome.Boxes
 
 #### RALibretro
 
-On an Ubuntu TODO VM:
+On an Ubuntu Desktop 25.10 VM:
 
 ```bash
 sudo apt update && sudo apt install -y build-essential git zip
