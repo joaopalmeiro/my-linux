@@ -88,6 +88,14 @@ make -f Makefile.RAHasher HAVE_CHD=1 CC="gcc -include unistd.h" CXX="g++ -includ
 ./bin64/RAHasher 12 <FILENAME>
 ```
 
+#### MAYFLASH GC Controller Adapter
+
+Follow the [instructions](https://wiki.dolphin-emu.org/index.php?title=How_to_use_the_Official_GameCube_Controller_Adapter_for_Wii_U_in_Dolphin#Linux) for Dolphin.
+
+Restart Dolphin and reconnect the adapter.
+
+In Dolphin, _Controllers_ > _GameCube Controllers_ > _Port 1_ > _GameCube Controller Adapter (USB)_. Click _Configure_ to validate.
+
 ## ASUS Eee PC 1005PE
 
 - 32-bit architecture
