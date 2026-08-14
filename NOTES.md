@@ -63,6 +63,10 @@
 - Console IDs: https://raw.githubusercontent.com/RetroAchievements/RAInterface/master/RA_Consoles.h
 - https://www.debugpoint.com/share-folder-gnome-boxes/
 - https://itsfoss.com/share-files-gnome-boxes/
+- `51-gcadapter.rules`:
+  - `/etc/udev/rules.d/51-gcadapter.rules`
+  - https://www.reddit.com/r/DolphinEmulator/comments/md0di3/how_to_get_dolphinbar_to_work_on_ubuntu/
+  - https://retrodeck.readthedocs.io/en/latest/wiki_emulator_guides/dolphin/dolphin-wii-remote/
 
 ## Commands
 
